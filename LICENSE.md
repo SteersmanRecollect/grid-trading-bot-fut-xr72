@@ -1,4 +1,4 @@
-# 
+# professional grid trading bot for futures Tool | market-making + liquidation-sniping is the best grid trading bot for futures, featuring market-making and liquidation-sniping.
 
 
 
